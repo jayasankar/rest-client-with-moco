@@ -1,0 +1,25 @@
+# Maven generated files
+target/
+MANIFEST.MF
+overlays/
+
+# Compiled files
+*.class
+
+# Packages
+*.jar
+
+# Eclipse files
+*.classpath
+*.project
+*.settings
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+/.metadata
+/Servers*
+
+# OS files
+.DS_Store
+**/.pmd
